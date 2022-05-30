@@ -6,8 +6,6 @@ public class DemoCon {
 	public static void main(String[] args) {
 		DemoCon obj=new DemoCon();
 		System.out.println("The value of num"+obj.num);
-	
-
 	}
 
 }
