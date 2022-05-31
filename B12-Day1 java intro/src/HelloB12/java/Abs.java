@@ -5,7 +5,7 @@ abstract class animal
 	abstract void noise();
 	public void eat()
 	{
-		System.out.println("every animal eats");
+		System.out.println("Every animal eats");
 	}
 }
 
