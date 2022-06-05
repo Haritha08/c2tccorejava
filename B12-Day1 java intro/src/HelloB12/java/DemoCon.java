@@ -1,11 +1,14 @@
 package HelloB12.java;
 
 public class DemoCon {
-	int num;
+	DemoCon()
+	{
+		System.out.println("Non prameterized constructor");
+	}
 
 	public static void main(String[] args) {
 		DemoCon obj=new DemoCon();
-		System.out.println("The value of num"+obj.num);
+		
 	}
 
 }
