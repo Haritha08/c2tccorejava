@@ -8,7 +8,6 @@ public class Demotrycatch extends Exception{
 		
 
 		int[] arr=new int[5];
-	
 		try
 		{
 		
