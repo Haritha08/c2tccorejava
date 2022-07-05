@@ -26,8 +26,4 @@ public class ShopAcc
 	public String toString() {
 		return "ShopAcc [accNo=" + accNo + ", accName=" + accName + ", charges=" + charges + "]";
 	}
-	public static void main(String[] args) {
-
-	}
-
 }
